@@ -6,7 +6,7 @@ I build software around problems I've lived through as an operator: lost orders,
 
 ### 🔨 Featured project
 
-**[Rassam](https://github.com/YAZEDALASSAF/RASSAM-SYSTEM)**: a full-stack, Arabic-first operations system for signage and advertising shops. It covers the sales pipeline, production board, client management, finance reports, HR and inventory, with role-based access, 2FA and a full audit trail.
+**[Rassam](https://rassam-system.onrender.com/)**: a full-stack, Arabic-first operations system for signage and advertising shops. It covers the sales pipeline, production board, client management, finance reports, HR and inventory, with role-based access, 2FA and a full audit trail.
 `React` `TypeScript` `Express` `PostgreSQL` · [Live demo](https://rassam-system.onrender.com/)
 
 ### 🧰 Skills
